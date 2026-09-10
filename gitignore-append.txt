@@ -1,0 +1,3 @@
+# 追加到仓库现有 .gitignore 末尾
+.env
+data/
